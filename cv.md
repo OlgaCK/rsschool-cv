@@ -9,6 +9,9 @@
 ## Education
   Belarusian State Pedagogical University *named after* Maxim Tank
 
+## Courses
+  RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)  
+
 ## Experience
    - teacher
    - manager

@@ -1,1 +1,1 @@
-# rsschool-cv
+https://olgack.github.io/rsschool-cv/cv
