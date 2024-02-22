@@ -1,5 +1,5 @@
 # Olga Contreras-Koshelapova
-![foto](/Users/olga/Desktop/rolling-scopes/rsschool-cv/photo_cv.jpeg)
+![foto](https://raw.githubusercontent.com/OlgaCK/rsschool-cv/gh-pages/photo_cv.jpeg)
 ## Contacts
   Currently location: Santiago, Chile\
   Discord: OlgaCK\
