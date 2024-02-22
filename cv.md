@@ -1,5 +1,5 @@
 # Olga Contreras-Koshelapova
-[foto](/Users/olga/Downloads/photo_2024-02-21 23.26.51.jpeg)
+![foto](https://www.instagram.com/p/B5cqBgUFIBM/)
 ## Contacts
   Currently location: Santiago, Chile\
   Discord: OlgaCK\
