@@ -1,4 +1,5 @@
 # Olga Contreras-Koshelapova
+Front-End Developer
 ![foto](https://raw.githubusercontent.com/OlgaCK/rsschool-cv/gh-pages/photo_cv.jpeg)
 ## Contacts
   Currently location: Santiago, Chile\
@@ -10,7 +11,9 @@
   Belarusian State Pedagogical University *named after* Maxim Tank
 
 ## Courses
-  RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)  
+  RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+  Курс по HTML: обучение html верстке для начинающих https://code-basics.com/
+  Курс CSS: онлайн обучение с нуля https://code-basics.com/
 
 ## Experience
    - teacher
