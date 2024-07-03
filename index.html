@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CV</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="assets/img/favicon.ico">
+    <link rel="icon" href="assets/favicon.ico">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
   </head>
@@ -43,12 +43,16 @@
       </div>
     </header>
     <main class="main">
-      <div class="container main-container">
-        <section class="section section-profile" id="profile">
-          <img src="./assets/img/avatar.jpeg" alt="avatar">
-          <h1 class="section-title">Olga Contreras-Koshelapova</h1>
+      <div class="container">
+        <section class="section-profile">
+          <img src="./assets/photo_cv.jpeg" class="avatar" alt="avatar">
+          <div class="section-profile__text">
+            <h1 class="section-title">Olga Contreras-Koshelapova</h1>
           <p>Junior Front-end Developer</p>
+          </div>
         </section>
+      </div>
+      <div class="main-container">
         <section class="section" id="summary">
           <h2 class="section-title">Summary</h2>
           <p>
@@ -91,11 +95,11 @@
         </section>
         <section class="section" id="courses">
           <h2 class="section-title">Courses</h2>
-          <ul>
+          <ul class="courses__list">
             <li>
               <a href="https://rs.school/js-stage0/"
                 >RS School: JavaScript / Front-end. Stage 0</a
-              >(in progress)
+              > (in progress)
             </li>
             <li>
               <a href="https://code-basics.com/ru/languages/html"
@@ -111,7 +115,7 @@
         </section>
         <section class="section" id="projects">
           <h2 class="section-title">Projects</h2>
-          <p><a href="">CV</a></p>
+          <p><a href="#">CV</a></p>
         </section>
         <section class="section" id="education">
           <h2 class="section-title">Education</h2>
@@ -131,8 +135,8 @@
     <footer class="footer">
       <div class="container">
         2024<a href="https://github.com/OlgaCK" class="github nav-link">my GitHub</a>
-        <a href="https://rs.school/js/">
-          <img src="https://rs.school/images/rs_school_js.svg" alt="logo RS school">
+        <a href="https://rs.school/courses/javascript-ru">
+          <img src="assets/rs_school_js.svg" alt="logo RS school">
         </a>
       </div>
     </footer>
