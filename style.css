@@ -51,7 +51,6 @@ a {
     padding: 0;
   }
   .avatar {
-    transform: scale(%);
     border-radius: 50%;
   }
   .section-profile__text {
